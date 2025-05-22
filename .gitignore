@@ -1,0 +1,9 @@
+#まず全部無視
+*
+
+#.gitignoreは無視から除外
+!.gitignore
+
+#特定のフォルダと、その中の特定のファイルは無視から除外
+!cs_study/
+!cs_study/Program.cs
