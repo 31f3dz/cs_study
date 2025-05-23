@@ -7,3 +7,6 @@
 #特定のフォルダと、その中の特定のファイルは無視から除外
 !cs_study/
 !cs_study/Program.cs
+
+!if_study/
+!if_study/Program.cs
